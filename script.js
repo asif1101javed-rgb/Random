@@ -69,3 +69,13 @@
 //     console.log(num);
 // }
 // console.log(num);
+
+
+// ---------------------------
+
+{
+    // Statement
+    // var 
+    // can be accessed
+}
+// can't be accessed
